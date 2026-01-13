@@ -1,7 +1,7 @@
 # MiniGPT – Character-Level GPT from Scratch
 
 This project is a **mini GPT-style language model** implemented and trained **from scratch** using PyTorch.  
-The model is trained on the **Tiny Shakespeare dataset** and generates Shakespeare-like text **character by character**.
+The model is trained on the **Tiny Shakespeare dataset** and generates Shakespeare-like text **character by character**
 
 This project is inspired by understanding how GPT models work internally, rather than using pre-trained libraries.
 
